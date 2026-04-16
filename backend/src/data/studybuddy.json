@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Carlos Rivera",
+    "major": "Computer Science",
+    "classes": ["COP3502", "COP3503", "MAC2311"],
+    "availability": "Weekday evenings",
+    "groupId": null
+  },
+  {
+    "id": "2",
+    "name": "Maya Johnson",
+    "major": "Biology",
+    "classes": ["BSC2010", "CHM2045", "MAC2311"],
+    "availability": "Weekend mornings",
+    "groupId": null
+  },
+  {
+    "id": "3",
+    "name": "Ethan Park",
+    "major": "Electrical Engineering",
+    "classes": ["EEL3004", "MAC2312", "PHY2048"],
+    "availability": "Weekday afternoons",
+    "groupId": null
+  },
+  {
+    "id": "4",
+    "name": "Sofia Martinez",
+    "major": "Psychology",
+    "classes": ["PSY2012", "STA2023", "ENC1101"],
+    "availability": "Anytime",
+    "groupId": null
+  }
+]

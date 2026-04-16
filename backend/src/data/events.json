@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "UCF Career Fair",
+    "date": "2026-04-15",
+    "location": "Student Union",
+    "description": "Annual career fair with top employers recruiting UCF students."
+  },
+  {
+    "id": "2",
+    "title": "Study Night at the Library",
+    "date": "2026-04-18",
+    "location": "John C. Hitt Library",
+    "description": "Group study session open to all students during finals week."
+  },
+  {
+    "id": "3",
+    "title": "Knights Game Night",
+    "date": "2026-04-20",
+    "location": "Recreation and Wellness Center",
+    "description": "Fun game night hosted by UCF student organizations."
+  },
+  {
+    "id": "4",
+    "title": "Tech Talk: AI in Healthcare",
+    "date": "2026-04-22",
+    "location": "Engineering Building 2",
+    "description": "Guest lecture on the latest applications of AI in healthcare."
+  }
+]

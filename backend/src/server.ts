@@ -29,6 +29,10 @@ app.get('/', (req, res) => {
   res.send('UCF App Backend is running!');
 });
 
+app.get('/health', (req, res) => {
+  res.json({ status: 'ok', message: 'UCF App Backend is healthy!' });
+});
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
